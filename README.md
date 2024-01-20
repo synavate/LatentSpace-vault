@@ -1,6 +1,7 @@
 # Synavate User Vault - Product Explorations and Requirements.
 
-[Please enter into discussion here with the Friends, Contributors and Community of Synavate]
+[Please enter into [discussion here]('https://github.com/synavate/LatentSpace-vault/discussions') with the Friends, Contributors and Community of Synavate]
+
 Contact: core@synavate.tech
 
 ## User Privacy is one of five cornerstones of Synavate & it's software

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/pouchdb-core": "^7.0.14",
+    "@verida/account-web-vault": "^3.0.1",
+    "@verida/client-ts": "^3.0.2",
+    "@verida/web-helpers": "^3.1.2"
+  }
+}
