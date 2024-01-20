@@ -1,4 +1,4 @@
-# Synavate User Vault - Product Explorations and Requirements.
+# Synavate User Vault - Exploring our options.
 
 [Please enter into discussion here with the Friends, Contributors and Community of Synavate]
 Contact: core@synavate.tech
