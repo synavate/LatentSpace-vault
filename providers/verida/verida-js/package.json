@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@verida/account-web-vault": "^3.0.1",
+    "@verida/client-ts": "^3.0.2"
+  },
+  "name": "verida-js",
+  "version": "1.0.0",
+  "description": "Verida Client Library",
+  "main": "index.js",
+  "author": "Synavate",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsc": "^2.0.4",
+    "typescript": "^5.3.3"
+  }
+}
