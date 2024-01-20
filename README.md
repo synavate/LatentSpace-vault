@@ -1,6 +1,6 @@
 # Synavate User Vault - Product Explorations and Requirements.
 
-[Please enter into [discussion here]('https://github.com/synavate/LatentSpace-vault/discussions') or on Discord with the Friends, Contributors and Community of Synavate]
+[Please enter into (discussion here)['https://github.com/synavate/LatentSpace-vault/discussions') or on Discord with the Friends, Contributors and Community of Synavate]
 
 Contact: core@synavate.tech
 
