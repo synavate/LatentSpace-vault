@@ -1,10 +1,10 @@
 # Synavate User Vault - Product Explorations and Requirements.
 
-[Please enter into [discussion here]('https://github.com/synavate/LatentSpace-vault/discussions') or on Discord with the Friends, Contributors and Community of Synavate]
+[Please enter into (discussion here)['https://github.com/synavate/LatentSpace-vault/discussions') or on Discord with the Friends, Contributors and Community of Synavate]
 
 Contact: core@synavate.tech
 
-## User Privacy is one of five cornerstones of Synavate & it's software
+## User Privacy is ::: One of Five ::: cornerstones of Synavate & it's software
 
 Our flagship product, `Synapse` is an insight ric application. It is only in early development but what it requires is the inclusion of individual ideas to generate connections. Not only does the data provided store and organize your thoughts, ideas and epiphanies - it expands and extends this.
 
@@ -19,7 +19,6 @@ Private user data should and will remain private.
 Confidential organisational IP will remain confidential.
 
 You will have both have control WITH the power of Synapse.
-
 
 Each entity will be able to benefit as an `organisation`, `association`, `department` or `individual` from Synapse. We want to ensure that regardless of your obligations legally, fidicuary or personally.
 
