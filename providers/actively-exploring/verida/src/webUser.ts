@@ -4,7 +4,7 @@ import { EnvironmentType } from '@verida/types'
 import { WebUser } from '@verida/web-helpers'
 
 // Your application context name
-const CONTEXT_NAME = 'Synavate: Synapse'
+const CONTEXT_NAME = 'Synavate: LatentSpace-Vault'
 const VERIDA_ENVIRONMENT = EnvironmentType.TESTNET
 
 // Your logo URL (appears in the Wallet)

@@ -1,0 +1,34 @@
+{
+  "name": "verida-js",
+  "version": "1.0.0",
+  "description": "Verida <> Synapse Client",
+  "main": "./src/index.js",
+  "author": "Synavate",
+  "license": "ISC",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.0.1",
+    "@types/axios": "^0.14.0",
+    "@types/node": "^20.11.5",
+    "@types/pouchdb-core": "^7.0.14",
+    "@verida/account-web-vault": "^3.0.1",
+    "@verida/client-ts": "^3.0.2",
+    "@verida/web-helpers": "^3.1.2",
+    "axios": "^1.6.5",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsc": "^2.0.4",
+    "typescript": "^5.3.3"
+}}
